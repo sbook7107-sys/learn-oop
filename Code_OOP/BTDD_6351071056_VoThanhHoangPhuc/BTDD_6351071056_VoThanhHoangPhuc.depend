@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1760437329 source:c:\users\hoang phuc\onedrive\documents\code_oop\btdd_6351071056_vothanhhoangphuc\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

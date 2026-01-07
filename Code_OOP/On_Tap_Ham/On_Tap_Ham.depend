@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758031101 source:c:\users\hoang phuc\onedrive\documents\code_oop\on_tap_ham\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<algorithm>
+
