@@ -1,0 +1,3 @@
+- Hàm khởi tạo: viết đủ 3 hàm
+- Hàm nhập/xuất/operator
+- Có câu về sắp xếp
